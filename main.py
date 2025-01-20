@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import plotly.express as px 
-from matplotlib_venn import venn2
 import matplotlib.pyplot as plt
 
 # Carregamento da base
